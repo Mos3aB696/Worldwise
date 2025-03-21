@@ -2,6 +2,9 @@
 
 **WorldWise** is a travel tracking web application that allows users to document their journeys, add notes to locations, and maintain lists of cities and countries they plan to visit or have already explored.
 
+## 🚀 Live Demo
+🔗 [View the Project](https://worldwise-ruddy.vercel.app/)
+
 ## 🌟 Features
 
 - **Interactive Map**: View and explore locations using an interactive world map.
