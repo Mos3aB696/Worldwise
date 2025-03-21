@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "ffbe",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "notes": "",
+      "date": "2025-03-15T21:27:59.714Z",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "30.052453901811464",
+        "lng": "31.269836425781254"
+      }
+    },
+    {
+      "id": "7e30",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "notes": "Love❤️",
+      "date": "2025-03-15T21:29:04.802Z",
+      "emoji": "🇵🇸",
+      "position": {
+        "lat": "31.46381099222185",
+        "lng": "34.39544677734376"
+      }
+    },
+    {
+      "id": "9b5c",
+      "cityName": "Damascus",
+      "country": "Syrian Arab Republic (the)",
+      "notes": "tes",
+      "date": "2025-03-15T21:56:14.635Z",
+      "emoji": "🇸🇾",
+      "position": {
+        "lat": "33.486435450999885",
+        "lng": "36.23291015625001"
+      }
+    }
+  ]
+}
